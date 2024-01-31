@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kalki-12
 - 👀 I’m interested in automating work tasks!
 - 🌱 I’m currently learning ... python!  Gotta start somewhere!
-- 💞️ I’m looking to collaborate on ... PowerAutomate & PowerBi Integrations with Video geotagged metadata.
+- 💞️ I’m looking to collaborate on ... Power Automate & PowerBi integrations with geotagged metadata from videos.
 
 
 <!---
