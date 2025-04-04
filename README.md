@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kalki-12
 - 👀 I’m interested in automating work tasks!
-- 🌱 I’m currently learning ... Harvard's CS50x. 
-- 💞️ I’m looking to collaborate on ... Power Automate & PowerBi integrations with geotagged metadata from videos.
+- 🌱 I’m currently learning.
+- 💞️ I’m looking to collaborate on ...
 
 
 <!---
